@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">知乎日报2.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appbar_scrolling_view_behavior"></string>
+</resources>
